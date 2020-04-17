@@ -1,0 +1,216 @@
+<resources>
+    <string name="app_name">Student++</string>
+
+
+    <string-array name="Main">
+        <item> Timetable </item>
+        <item> Submissions</item>
+        <item>Faculty</item>
+        <item>Resources</item>
+    </string-array>
+
+    <string-array name="MainTrans">
+        <item>
+विषय </item>
+        <item>कार्य</item>
+        <item>
+अध्यापक</item>
+        <item>
+साधन</item>
+    </string-array>
+
+    <string-array name="Week">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+
+    </string-array>
+
+    <string-array name="Monday">
+        <item> DAA</item>
+        <item> OS</item>
+        <item>OS</item>
+        <item> Free</item>
+        <item> Break</item>
+        <item> TOC</item>
+        <item> DIA </item>
+
+    </string-array>
+
+    <string-array name="timeMon">
+        <item> 9:00am-10:00am</item>
+        <item> 10:00am-11:00am</item>
+        <item>11:15am-12:15pm</item>
+        <item> 12:15pm-1:15pm</item>
+        <item> 1:15pm-2:15pm</item>
+        <item> 2:15pm-4:15pm</item>
+        <item> 4:15pm-5:15pm</item>
+
+    </string-array>
+
+
+    <string-array name="Tuesday">
+
+        <item> DIA</item>
+        <item>DIA</item>
+        <item> DAA</item>
+        <item> Break</item>
+        <item> TOC</item>
+        <item>DBMS LAB</item>
+
+    </string-array>
+
+    <string-array name="timeTue">
+
+        <item> 10:00am-11:00am</item>
+        <item>11:15am-12:15pm</item>
+        <item> 12:15pm-1:15pm</item>
+        <item> 1:15pm-2:15pm</item>
+        <item> 2:15pm-3:15pm</item>
+        <item> 3:15pm-5:15pm</item>
+
+    </string-array>
+    <string-array name="Wednesday">
+        <item> DAA</item>
+        <item> OS</item>
+        <item>Free</item>
+        <item> Break</item>
+        <item> DBMS</item>
+
+
+    </string-array>
+
+    <string-array name="timeWed">
+        <item> 9:00am-10:00am</item>
+        <item> 10:00am-11:00am</item>
+        <item>11:00am-1:15pm</item>
+        <item> 1:15pm-2:15pm</item>
+        <item> 2:15pm-5:15pm</item>
+
+
+    </string-array>
+
+    <string-array name="Thursday">
+        <item> DIA</item>
+        <item> IGT</item>
+        <item>IGT LAB</item>
+        <item> Break</item>
+        <item> IGT</item>
+
+
+    </string-array>
+
+    <string-array name="timeThurs">
+        <item> 9:00am-10:00am</item>
+        <item> 10:00am-11:00am</item>
+        <item>11:15am-1:15pm</item>
+        <item> 1:15pm-2:15pm</item>
+        <item> 2:15pm-3:15pm</item>
+
+
+    </string-array>
+
+    <string-array name="Friday">
+        <item> OS LAB</item>
+        <item> OST</item>
+        <item>Break</item>
+
+
+    </string-array>
+
+
+    <string-array name="timeFri">
+        <item> 9:00am-11:00am</item>
+        <item> 11:15am-1:15pm</item>
+        <item> 1:15pm-2:15pm</item>
+
+    </string-array>
+
+    <string-array name="Syllabus">
+        <item> OS
+                  Module1- Introduction to Operating Systems
+                  Module2-Process Synchronization
+                  Module3-Deadlock
+                  Module4-CPU Scheduling</item>
+        <item> DBMS</item>
+        <item> DIA</item>
+        <item> IGT</item>
+    </string-array>
+
+    <string-array name="OS">
+        <item> Introduction to OS </item>
+        <item> Process Synchronization</item>
+        <item> Deadlock</item>
+        <item> CPU Scheduling</item>
+    </string-array>
+
+    <string-array name="DBMS">
+        <item> Introduction to OS </item>
+        <item> Process Synchronization</item>
+        <item> Deadlock</item>
+        <item> CPU Scheduling</item>
+    </string-array>
+
+    <string-array name="DIA">
+        <item> Introduction to OS </item>
+        <item> Process Synchronization</item>
+        <item> Deadlock</item>
+        <item> CPU Scheduling</item>
+    </string-array>
+
+    <string-array name="IGT">
+        <item> Introduction to OS </item>
+        <item> Process Synchronization</item>
+        <item> Deadlock</item>
+        <item> CPU Scheduling</item>
+    </string-array>
+
+    <string-array name="TITLE">
+        <item> UNIT1 </item>
+        <item> UNIT2</item>
+        <item> UNIT3</item>
+        <item> UNIT4</item>
+
+    </string-array>
+
+    <string-array name="FacultyName">
+        <item> FacultyName1 </item>
+        <item> FacultyName2</item>
+        <item>FacultyName3</item>
+        <item>FacultyName4</item>
+    </string-array>
+
+    <string-array name="faculty1">
+        <item> 9865732109 </item>
+        <item> xyz@gmail.com</item>
+        <item> Information Technology</item>
+
+
+    </string-array>
+
+    <string-array name="faculty2">
+        <item> 9865732309 </item>
+        <item> xyzq@gmail.com</item>
+        <item> Information Technology</item>
+
+
+    </string-array>
+
+    <string-array name="faculty3">
+        <item> 9865732109 </item>
+        <item> x34yz@gmail.com</item>
+        <item> Information Technology</item>
+
+
+    </string-array>
+
+    <string-array name="faculty4">
+        <item> 9865732109 </item>
+        <item> xyacdz@gmail.com</item>
+        <item> Information Technology</item>
+
+
+    </string-array>
+</resources>
